@@ -7,12 +7,6 @@
       height="40"
     />
 
-  <a> <img
-      src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"
-      alt="django"
-      width="40"
-      height="40"
-    />
 https://static.djangoproject.com/img/logos/django-logo-negative.svg
 ## Deployment
 To deploy this project on Replit.

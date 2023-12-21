@@ -10,11 +10,11 @@
 ## Deployment
 To deploy this project on Replit.
 ### Run on Repl.it
-[REPLIT](https://replit.com/@yanoshimykhailo/Discord-Bot)<img
+[<img
       src="img/replit.svg"
       alt="python"
       width="30"
       height="30"
-    />
+    />](https://replit.com/@yanoshimykhailo/Discord-Bot)
 ## To host BOT 24/7
 Use [UPTIMEROBOT](https://uptimerobot.com/login) to run bot 24/7
